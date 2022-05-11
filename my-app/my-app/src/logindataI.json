@@ -1,0 +1,18 @@
+[
+  {
+    "email": "Capstone@edu.org",
+    "password": "C123"
+  },
+  {
+    "email": "Admin8@hotmail.com",
+    "password": "TWTR"
+  },
+  {
+    "email": "user1@yahoo.com",
+    "password": "pass1"
+  },
+  {
+    "email": "user2@gmail.com",
+    "password": "pass2"
+  }
+]
